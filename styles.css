@@ -1,7 +1,7 @@
 
 /********************** Global Styles ***********************/
 html{
-  background: url(https://cdn.pixabay.com/photo/2016/07/15/22/49/pickled-cucumbers-1520638_1280.jpg)no-repeat center center fixed;
+  background: url(./Images/Pickles.jpg)no-repeat center center fixed;
   background-size:cover;
   font-size: 62.5%;
 }
@@ -41,11 +41,11 @@ h1, h2, h4 {
   flex-direction: column;
   margin: 5%;
   width: 80%;
-  border: 3px solid black;
+  border: 3px solid whitesmoke;
 }
 header {
   width: 100%;
-  background: black;
+  background: #285501;
 }
 h1  {
   font-size: 12.5rem;
